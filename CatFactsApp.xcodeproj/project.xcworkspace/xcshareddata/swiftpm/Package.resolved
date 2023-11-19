@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "service-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anachikhladze/service-package",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d58cb417b725c1fa9f104d244260387a89f6968d"
+      }
+    }
+  ],
+  "version" : 2
+}
